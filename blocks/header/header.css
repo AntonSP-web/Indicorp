@@ -1,0 +1,12 @@
+.header {
+  min-height: 104px;
+  display: flex;
+  box-sizing: border-box;
+  padding: 23px 10px;
+  align-items: center;
+  flex-wrap: wrap;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+}

@@ -1,0 +1,5 @@
+.description__link_type_border {
+  color: var(--color-secondary-one);
+  border: 1px solid var(--color-secondary-one);
+  background-color: transparent;
+}
